@@ -1,0 +1,1161 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Payamito sms ultimate member\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-22 13:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain:payamito-ultimate-member"
+
+#: inc/admin/class-settings.php:333
+msgid "Active"
+msgstr ""
+
+#: inc/class-functions.php:136
+msgid "Afghanistan"
+msgstr ""
+
+#: inc/class-functions.php:138
+msgid "Albania"
+msgstr ""
+
+#: inc/class-functions.php:139
+msgid "Algeria"
+msgstr ""
+
+#: inc/admin/class-settings.php:357
+msgid "Allowed countries"
+msgstr ""
+
+#: inc/class-functions.php:140
+msgid "American Samoa"
+msgstr ""
+
+#: inc/class-functions.php:141
+msgid "Andorra"
+msgstr ""
+
+#: inc/class-functions.php:142
+msgid "Angola"
+msgstr ""
+
+#: inc/class-functions.php:143
+msgid "Anguilla"
+msgstr ""
+
+#: inc/class-functions.php:144
+msgid "Antarctica"
+msgstr ""
+
+#: inc/class-functions.php:145
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: inc/admin/class-settings.php:334
+msgid "Are you want send sms to admin "
+msgstr ""
+
+#: inc/class-functions.php:146
+msgid "Argentina"
+msgstr ""
+
+#: inc/class-functions.php:147
+msgid "Armenia"
+msgstr ""
+
+#: inc/class-functions.php:148
+msgid "Aruba"
+msgstr ""
+
+#: inc/class-functions.php:149
+msgid "Australia"
+msgstr ""
+
+#: inc/class-functions.php:150
+msgid "Austria"
+msgstr ""
+
+#: inc/class-functions.php:151
+msgid "Azerbaijan"
+msgstr ""
+
+#: inc/class-functions.php:152
+msgid "Bahamas"
+msgstr ""
+
+#: inc/class-functions.php:153
+msgid "Bahrain"
+msgstr ""
+
+#: inc/class-functions.php:154
+msgid "Bangladesh"
+msgstr ""
+
+#: inc/class-functions.php:155
+msgid "Barbados"
+msgstr ""
+
+#: inc/class-functions.php:156
+msgid "Belarus"
+msgstr ""
+
+#: inc/class-functions.php:158
+msgid "Belau"
+msgstr ""
+
+#: inc/class-functions.php:157
+msgid "Belgium"
+msgstr ""
+
+#: inc/class-functions.php:159
+msgid "Belize"
+msgstr ""
+
+#: inc/class-functions.php:160
+msgid "Benin"
+msgstr ""
+
+#: inc/class-functions.php:161
+msgid "Bermuda"
+msgstr ""
+
+#: inc/class-functions.php:162
+msgid "Bhutan"
+msgstr ""
+
+#: inc/class-functions.php:163
+msgid "Bolivia"
+msgstr ""
+
+#: inc/class-functions.php:164
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: inc/class-functions.php:165
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: inc/class-functions.php:166
+msgid "Botswana"
+msgstr ""
+
+#: inc/class-functions.php:167
+msgid "Bouvet Island"
+msgstr ""
+
+#: inc/class-functions.php:168
+msgid "Brazil"
+msgstr ""
+
+#: inc/class-functions.php:169
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: inc/class-functions.php:170
+msgid "Brunei"
+msgstr ""
+
+#: inc/class-functions.php:171
+msgid "Bulgaria"
+msgstr ""
+
+#: inc/class-functions.php:172
+msgid "Burkina Faso"
+msgstr ""
+
+#: inc/class-functions.php:173
+msgid "Burundi"
+msgstr ""
+
+#: inc/class-functions.php:174
+msgid "Cambodia"
+msgstr ""
+
+#: inc/class-functions.php:175
+msgid "Cameroon"
+msgstr ""
+
+#: inc/class-functions.php:176
+msgid "Canada"
+msgstr ""
+
+#: inc/class-functions.php:177
+msgid "Cape Verde"
+msgstr ""
+
+#: inc/class-functions.php:178
+msgid "Cayman Islands"
+msgstr ""
+
+#: inc/class-functions.php:179
+msgid "Central African Republic"
+msgstr ""
+
+#: inc/class-functions.php:180
+msgid "Chad"
+msgstr ""
+
+#: inc/class-functions.php:181
+msgid "Chile"
+msgstr ""
+
+#: inc/class-functions.php:182
+msgid "China"
+msgstr ""
+
+#: inc/class-functions.php:183
+msgid "Christmas Island"
+msgstr ""
+
+#: inc/payamito-um.php:109
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: inc/class-functions.php:184
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: inc/class-functions.php:185
+msgid "Colombia"
+msgstr ""
+
+#: inc/class-functions.php:186
+msgid "Comoros"
+msgstr ""
+
+#: inc/class-functions.php:187
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: inc/class-functions.php:188
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: inc/class-functions.php:189
+msgid "Cook Islands"
+msgstr ""
+
+#: inc/class-functions.php:190
+msgid "Costa Rica"
+msgstr ""
+
+#: inc/class-functions.php:191
+msgid "Croatia"
+msgstr ""
+
+#: inc/class-functions.php:192
+msgid "Cuba"
+msgstr ""
+
+#: inc/class-functions.php:193
+msgid "Cura&ccedil;ao"
+msgstr ""
+
+#: inc/class-functions.php:194
+msgid "Cyprus"
+msgstr ""
+
+#: inc/class-functions.php:195
+msgid "Czech Republic"
+msgstr ""
+
+#: inc/admin/class-settings.php:349
+msgid "Default Country "
+msgstr ""
+
+#: inc/class-functions.php:196
+msgid "Denmark"
+msgstr ""
+
+#: inc/class-functions.php:197
+msgid "Djibouti"
+msgstr ""
+
+#: inc/class-functions.php:198
+msgid "Dominica"
+msgstr ""
+
+#: inc/class-functions.php:199
+msgid "Dominican Republic"
+msgstr ""
+
+#: inc/class-functions.php:200
+msgid "Ecuador"
+msgstr ""
+
+#: inc/class-functions.php:201
+msgid "Egypt"
+msgstr ""
+
+#: inc/class-functions.php:202
+msgid "El Salvador"
+msgstr ""
+
+#: inc/class-functions.php:203
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: inc/class-functions.php:204
+msgid "Eritrea"
+msgstr ""
+
+#: inc/class-functions.php:205
+msgid "Estonia"
+msgstr ""
+
+#: inc/class-functions.php:206
+msgid "Ethiopia"
+msgstr ""
+
+#: inc/class-functions.php:207
+msgid "Falkland Islands"
+msgstr ""
+
+#: inc/class-functions.php:208
+msgid "Faroe Islands"
+msgstr ""
+
+#: inc/class-functions.php:209
+msgid "Fiji"
+msgstr ""
+
+#: inc/class-functions.php:210
+msgid "Finland"
+msgstr ""
+
+#: inc/class-functions.php:211
+msgid "France"
+msgstr ""
+
+#: inc/class-functions.php:212
+msgid "French Guiana"
+msgstr ""
+
+#: inc/class-functions.php:213
+msgid "French Polynesia"
+msgstr ""
+
+#: inc/class-functions.php:214
+msgid "French Southern Territories"
+msgstr ""
+
+#: inc/class-functions.php:215
+msgid "Gabon"
+msgstr ""
+
+#: inc/class-functions.php:216
+msgid "Gambia"
+msgstr ""
+
+#: inc/class-functions.php:217
+msgid "Georgia"
+msgstr ""
+
+#: inc/class-functions.php:218
+msgid "Germany"
+msgstr ""
+
+#: inc/class-functions.php:219
+msgid "Ghana"
+msgstr ""
+
+#: inc/class-functions.php:220
+msgid "Gibraltar"
+msgstr ""
+
+#: inc/class-functions.php:221
+msgid "Greece"
+msgstr ""
+
+#: inc/class-functions.php:222
+msgid "Greenland"
+msgstr ""
+
+#: inc/class-functions.php:223
+msgid "Grenada"
+msgstr ""
+
+#: inc/class-functions.php:224
+msgid "Guadeloupe"
+msgstr ""
+
+#: inc/class-functions.php:225
+msgid "Guam"
+msgstr ""
+
+#: inc/class-functions.php:226
+msgid "Guatemala"
+msgstr ""
+
+#: inc/class-functions.php:227
+msgid "Guernsey"
+msgstr ""
+
+#: inc/class-functions.php:228
+msgid "Guinea"
+msgstr ""
+
+#: inc/class-functions.php:229
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: inc/class-functions.php:230
+msgid "Guyana"
+msgstr ""
+
+#: inc/class-functions.php:231
+msgid "Haiti"
+msgstr ""
+
+#: inc/class-functions.php:232
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: inc/class-functions.php:233
+msgid "Honduras"
+msgstr ""
+
+#: inc/class-functions.php:234
+msgid "Hong Kong"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://payamito.com/"
+msgstr ""
+
+#: inc/class-functions.php:235
+msgid "Hungary"
+msgstr ""
+
+#: inc/class-functions.php:236
+msgid "Iceland"
+msgstr ""
+
+#: inc/class-functions.php:237
+msgid "India"
+msgstr ""
+
+#: inc/class-functions.php:238
+msgid "Indonesia"
+msgstr ""
+
+#: inc/class-functions.php:239
+msgid "Iran"
+msgstr ""
+
+#: inc/class-functions.php:240
+msgid "Iraq"
+msgstr ""
+
+#: inc/class-functions.php:241
+msgid "Ireland"
+msgstr ""
+
+#: inc/class-functions.php:242
+msgid "Isle of Man"
+msgstr ""
+
+#: inc/class-functions.php:243
+msgid "Israel"
+msgstr ""
+
+#: inc/class-functions.php:244
+msgid "Italy"
+msgstr ""
+
+#: inc/class-functions.php:245
+msgid "Ivory Coast"
+msgstr ""
+
+#: inc/class-functions.php:246
+msgid "Jamaica"
+msgstr ""
+
+#: inc/class-functions.php:247
+msgid "Japan"
+msgstr ""
+
+#: inc/class-functions.php:248
+msgid "Jersey"
+msgstr ""
+
+#: inc/class-functions.php:249
+msgid "Jordan"
+msgstr ""
+
+#: inc/class-functions.php:250
+msgid "Kazakhstan"
+msgstr ""
+
+#: inc/class-functions.php:251
+msgid "Kenya"
+msgstr ""
+
+#: inc/class-functions.php:252
+msgid "Kiribati"
+msgstr ""
+
+#: inc/class-functions.php:253
+msgid "Kuwait"
+msgstr ""
+
+#: inc/class-functions.php:254
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: inc/class-functions.php:255
+msgid "Laos"
+msgstr ""
+
+#: inc/class-functions.php:256
+msgid "Latvia"
+msgstr ""
+
+#: inc/class-functions.php:257
+msgid "Lebanon"
+msgstr ""
+
+#: inc/class-functions.php:258
+msgid "Lesotho"
+msgstr ""
+
+#: inc/class-functions.php:259
+msgid "Liberia"
+msgstr ""
+
+#: inc/class-functions.php:260
+msgid "Libya"
+msgstr ""
+
+#: inc/class-functions.php:261
+msgid "Liechtenstein"
+msgstr ""
+
+#: inc/class-functions.php:262
+msgid "Lithuania"
+msgstr ""
+
+#: inc/admin/class-settings.php:228
+msgid "Login"
+msgstr ""
+
+#: inc/admin/class-settings.php:232
+msgid "Login Forms"
+msgstr ""
+
+#: inc/class-functions.php:263
+msgid "Luxembourg"
+msgstr ""
+
+#: inc/class-functions.php:264
+msgid "Macao"
+msgstr ""
+
+#: inc/class-functions.php:266
+msgid "Madagascar"
+msgstr ""
+
+#: inc/class-functions.php:267
+msgid "Malawi"
+msgstr ""
+
+#: inc/class-functions.php:268
+msgid "Malaysia"
+msgstr ""
+
+#: inc/class-functions.php:269
+msgid "Maldives"
+msgstr ""
+
+#: inc/class-functions.php:270
+msgid "Mali"
+msgstr ""
+
+#: inc/class-functions.php:271
+msgid "Malta"
+msgstr ""
+
+#: inc/class-functions.php:272
+msgid "Marshall Islands"
+msgstr ""
+
+#: inc/class-functions.php:273
+msgid "Martinique"
+msgstr ""
+
+#: inc/class-functions.php:274
+msgid "Mauritania"
+msgstr ""
+
+#: inc/class-functions.php:275
+msgid "Mauritius"
+msgstr ""
+
+#: inc/class-functions.php:276
+msgid "Mayotte"
+msgstr ""
+
+#: inc/admin/class-settings.php:178
+msgid "Message"
+msgstr ""
+
+#: inc/admin/class-settings.php:398
+msgid "Meta Keys "
+msgstr ""
+
+#: inc/class-functions.php:277
+msgid "Mexico"
+msgstr ""
+
+#: inc/class-functions.php:278
+msgid "Micronesia"
+msgstr ""
+
+#: inc/admin/class-settings.php:340
+msgid "Mobile number "
+msgstr ""
+
+#: inc/class-functions.php:279
+msgid "Moldova"
+msgstr ""
+
+#: inc/class-functions.php:280
+msgid "Monaco"
+msgstr ""
+
+#: inc/class-functions.php:281
+msgid "Mongolia"
+msgstr ""
+
+#: inc/class-functions.php:282
+msgid "Montenegro"
+msgstr ""
+
+#: inc/class-functions.php:283
+msgid "Montserrat"
+msgstr ""
+
+#: inc/class-functions.php:284
+msgid "Morocco"
+msgstr ""
+
+#: inc/class-functions.php:285
+msgid "Mozambique"
+msgstr ""
+
+#: inc/class-functions.php:286
+msgid "Myanmar"
+msgstr ""
+
+#: inc/class-functions.php:287
+msgid "Namibia"
+msgstr ""
+
+#: inc/class-functions.php:288
+msgid "Nauru"
+msgstr ""
+
+#: inc/class-functions.php:289
+msgid "Nepal"
+msgstr ""
+
+#: inc/class-functions.php:290
+msgid "Netherlands"
+msgstr ""
+
+#: inc/class-functions.php:291
+msgid "New Caledonia"
+msgstr ""
+
+#: inc/class-functions.php:292
+msgid "New Zealand"
+msgstr ""
+
+#: inc/class-functions.php:293
+msgid "Nicaragua"
+msgstr ""
+
+#: inc/class-functions.php:294
+msgid "Niger"
+msgstr ""
+
+#: inc/class-functions.php:295
+msgid "Nigeria"
+msgstr ""
+
+#: inc/class-functions.php:296
+msgid "Niue"
+msgstr ""
+
+#: inc/class-functions.php:297
+msgid "Norfolk Island"
+msgstr ""
+
+#: inc/class-functions.php:299
+msgid "North Korea"
+msgstr ""
+
+#: inc/class-functions.php:265
+msgid "North Macedonia"
+msgstr ""
+
+#: inc/class-functions.php:298
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: inc/class-functions.php:300
+msgid "Norway"
+msgstr ""
+
+#: inc/admin/class-settings.php:116
+msgid "Number of OTP code"
+msgstr ""
+
+#: inc/admin/class-settings.php:117
+msgid "Number of OTP code that you want send for user"
+msgstr ""
+
+#: inc/class-functions.php:301
+msgid "Oman"
+msgstr ""
+
+#: inc/admin/class-settings.php:252
+msgid "OTP"
+msgstr ""
+
+#: inc/admin/class-settings.php:154
+msgid "OTP field Placeholder"
+msgstr ""
+
+#: inc/admin/class-settings.php:147
+msgid "OTP field title"
+msgstr ""
+
+#: inc/class-functions.php:302
+msgid "Pakistan"
+msgstr ""
+
+#: inc/class-functions.php:303
+msgid "Palestinian Territory"
+msgstr ""
+
+#: inc/class-functions.php:304
+msgid "Panama"
+msgstr ""
+
+#: inc/class-functions.php:305
+msgid "Papua New Guinea"
+msgstr ""
+
+#: inc/class-functions.php:306
+msgid "Paraguay"
+msgstr ""
+
+#. Author of the plugin
+msgid "payamito"
+msgstr ""
+
+#. Name of the plugin
+msgid "Payamito sms ultimate member"
+msgstr ""
+
+#. Description of the plugin
+msgid "Payamito sms ultimate member Version"
+msgstr ""
+
+#: inc/class-ultimate-member.php:86
+msgid "Payamito ultimate member phone numbers "
+msgstr ""
+
+#: inc/class-functions.php:307
+msgid "Peru"
+msgstr ""
+
+#: inc/class-functions.php:308
+msgid "Philippines"
+msgstr ""
+
+#: inc/admin/class-settings.php:295
+msgid "phone number"
+msgstr ""
+
+#: inc/class-ultimate-member.php:92 inc/admin/class-settings.php:303
+msgid "Phone number "
+msgstr ""
+
+#: inc/class-functions.php:309
+msgid "Pitcairn"
+msgstr ""
+
+#: inc/class-functions.php:310
+msgid "Poland"
+msgstr ""
+
+#: inc/class-functions.php:311
+msgid "Portugal"
+msgstr ""
+
+#: inc/class-functions.php:312
+msgid "Puerto Rico"
+msgstr ""
+
+#: inc/class-functions.php:313
+msgid "Qatar"
+msgstr ""
+
+#: inc/admin/class-settings.php:204
+msgid "Register"
+msgstr ""
+
+#: inc/admin/class-settings.php:208
+msgid "Register Form"
+msgstr ""
+
+#: inc/class-functions.php:314
+msgid "Reunion"
+msgstr ""
+
+#: inc/class-functions.php:315
+msgid "Romania"
+msgstr ""
+
+#: inc/class-functions.php:316
+msgid "Russia"
+msgstr ""
+
+#: inc/class-functions.php:317
+msgid "Rwanda"
+msgstr ""
+
+#: inc/class-functions.php:327
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: inc/class-functions.php:318
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: inc/class-functions.php:319
+msgid "Saint Helena"
+msgstr ""
+
+#: inc/class-functions.php:320
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: inc/class-functions.php:321
+msgid "Saint Lucia"
+msgstr ""
+
+#: inc/class-functions.php:323
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: inc/class-functions.php:322
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: inc/class-functions.php:324
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: inc/class-functions.php:325
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: inc/class-functions.php:381
+msgid "Samoa"
+msgstr ""
+
+#: inc/class-functions.php:326
+msgid "San Marino"
+msgstr ""
+
+#: inc/class-functions.php:328
+msgid "Saudi Arabia"
+msgstr ""
+
+#: inc/admin/class-settings.php:359
+msgid "Select one or more user roles"
+msgstr ""
+
+#: inc/admin/class-settings.php:278
+msgid "Select tag"
+msgstr ""
+
+#: inc/admin/class-settings.php:132
+msgid "Send Again"
+msgstr ""
+
+#: inc/class-functions.php:329
+msgid "Senegal"
+msgstr ""
+
+#: inc/class-functions.php:330
+msgid "Serbia"
+msgstr ""
+
+#: inc/class-functions.php:331
+msgid "Seychelles"
+msgstr ""
+
+#: inc/class-functions.php:332
+msgid "Sierra Leone"
+msgstr ""
+
+#: inc/class-functions.php:333
+msgid "Singapore"
+msgstr ""
+
+#: inc/admin/class-settings.php:253
+msgid "Site name"
+msgstr ""
+
+#: inc/class-functions.php:334
+msgid "Slovakia"
+msgstr ""
+
+#: inc/class-functions.php:335
+msgid "Slovenia"
+msgstr ""
+
+#: inc/admin/class-settings.php:382
+msgid "SMS"
+msgstr ""
+
+#: inc/class-functions.php:336
+msgid "Solomon Islands"
+msgstr ""
+
+#: inc/class-functions.php:337
+msgid "Somalia"
+msgstr ""
+
+#: inc/class-functions.php:338
+msgid "South Africa"
+msgstr ""
+
+#: inc/class-functions.php:339
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: inc/class-functions.php:340
+msgid "South Korea"
+msgstr ""
+
+#: inc/class-functions.php:341
+msgid "South Sudan"
+msgstr ""
+
+#: inc/class-functions.php:342
+msgid "Spain"
+msgstr ""
+
+#: inc/class-functions.php:343
+msgid "Sri Lanka"
+msgstr ""
+
+#: inc/class-functions.php:344
+msgid "Sudan"
+msgstr ""
+
+#: inc/class-functions.php:345
+msgid "Suriname"
+msgstr ""
+
+#: inc/class-functions.php:346
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: inc/class-functions.php:347
+msgid "Swaziland"
+msgstr ""
+
+#: inc/class-functions.php:348
+msgid "Sweden"
+msgstr ""
+
+#: inc/class-functions.php:349
+msgid "Switzerland"
+msgstr ""
+
+#: inc/class-functions.php:350
+msgid "Syria"
+msgstr ""
+
+#: inc/class-functions.php:351
+msgid "Taiwan"
+msgstr ""
+
+#: inc/class-functions.php:352
+msgid "Tajikistan"
+msgstr ""
+
+#: inc/class-functions.php:353
+msgid "Tanzania"
+msgstr ""
+
+#: inc/class-functions.php:354
+msgid "Thailand"
+msgstr ""
+
+#: inc/admin/class-settings.php:98
+msgid "There is no active form. Create at least one form"
+msgstr ""
+
+#: inc/class-functions.php:355
+msgid "Timor-Leste"
+msgstr ""
+
+#: inc/class-functions.php:356
+msgid "Togo"
+msgstr ""
+
+#: inc/class-functions.php:357
+msgid "Tokelau"
+msgstr ""
+
+#: inc/class-functions.php:358
+msgid "Tonga"
+msgstr ""
+
+#: inc/class-functions.php:359
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: inc/class-functions.php:360
+msgid "Tunisia"
+msgstr ""
+
+#: inc/class-functions.php:361
+msgid "Turkey"
+msgstr ""
+
+#: inc/class-functions.php:362
+msgid "Turkmenistan"
+msgstr ""
+
+#: inc/class-functions.php:363
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: inc/class-functions.php:364
+msgid "Tuvalu"
+msgstr ""
+
+#: inc/class-functions.php:365
+msgid "Uganda"
+msgstr ""
+
+#: inc/class-functions.php:366
+msgid "Ukraine"
+msgstr ""
+
+#: inc/admin/class-settings.php:94 inc/admin/class-settings.php:104
+msgid "Ultimate Member"
+msgstr ""
+
+#: inc/class-functions.php:367
+msgid "United Arab Emirates"
+msgstr ""
+
+#: inc/class-functions.php:368
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: inc/class-functions.php:369
+msgid "United States (US)"
+msgstr ""
+
+#: inc/class-functions.php:370
+msgid "United States (US) Minor Outlying Islands"
+msgstr ""
+
+#: inc/payamito-um.php:119
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#: inc/class-functions.php:371
+msgid "Uruguay"
+msgstr ""
+
+#: inc/class-functions.php:372
+msgid "Uzbekistan"
+msgstr ""
+
+#: inc/admin/class-settings.php:161
+msgid "Validate backgrund color"
+msgstr ""
+
+#: inc/admin/class-settings.php:167
+msgid "Validate color"
+msgstr ""
+
+#: inc/admin/class-settings.php:109 inc/admin/class-settings.php:112
+msgid "Validation "
+msgstr ""
+
+#: inc/class-functions.php:373
+msgid "Vanuatu"
+msgstr ""
+
+#: inc/class-functions.php:374
+msgid "Vatican"
+msgstr ""
+
+#: inc/class-functions.php:375
+msgid "Venezuela"
+msgstr ""
+
+#: inc/class-functions.php:376
+msgid "Vietnam"
+msgstr ""
+
+#: inc/class-functions.php:377
+msgid "Virgin Islands (British)"
+msgstr ""
+
+#: inc/class-functions.php:378
+msgid "Virgin Islands (US)"
+msgstr ""
+
+#: inc/class-functions.php:379
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: inc/class-functions.php:380
+msgid "Western Sahara"
+msgstr ""
+
+#: inc/admin/class-settings.php:133
+msgid "When you want the user to re-request OTP."
+msgstr ""
+
+#: inc/class-functions.php:382
+msgid "Yemen"
+msgstr ""
+
+#: inc/admin/class-settings.php:284
+msgid "Your tag"
+msgstr ""
+
+#: inc/class-functions.php:383
+msgid "Zambia"
+msgstr ""
+
+#: inc/class-functions.php:384
+msgid "Zimbabwe"
+msgstr ""
+
+#: inc/class-functions.php:137
+msgid "Åland Islands"
+msgstr ""
